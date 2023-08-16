@@ -35,7 +35,10 @@ specialLogger("hello")//will print "hello
 
 //functions might return value
 function getValue(){
-    return 10;
+    return 10;//note:after returnin
+    //value rest of function code isn't exectued
+    //and we go back to place we left
+    //we go back anyway after function ends
 }
 
 var result = getValue();//will return 10

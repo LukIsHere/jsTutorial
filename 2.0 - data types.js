@@ -41,24 +41,3 @@ var obj1 = {
     key1: "value1",
     key2: "value2"
 }
-//to-do
-
-//Functions
-//can be called with ()
-function func1(){//we usually define them like this
-    //code
-}
-var func2 = ()=>{//but the can also be defined like this
-    //code
-}
-//to-do
-
-//Classes
-//are templates for special kind of objects
-class class1{//we usually define them like this
-    //code
-}
-var class2 = class{//we usually define them like this
-    //code
-}
-//to-do
